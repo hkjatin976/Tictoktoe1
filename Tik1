@@ -1,0 +1,7 @@
+cd path/to/unzipped/folder
+git init
+git add .
+git commit -m "Initial commit - Tic Tac Toe by HK JATIN"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/tic-tac-toe-3d.git
+git push -u origin main
